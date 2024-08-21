@@ -6,7 +6,7 @@ The following instructions will show you how to submit your game in the proper f
 ## Setup your submission:
 1. **Create a folder named {Game name}-{Your name} _(Replace the brackets with your info)_**
 2. **Create a folder named source**
-  - Put all the source code to your game in the folder you just created. _(Tip: remember to remove any personal information)_
+  - Put all the source code to your game in the folder you just created. _(Tip: Remember to remove any personal information)_
 3. **Create a folder named build if your game needs a build to run.**
   - If your game needs a build, put your build inside it.
 4. **Create a file within that folder named README.md**
